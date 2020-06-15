@@ -1,0 +1,10 @@
+com\microService\demo\Student.class
+com\microService\demo\Math.class
+com\microService\demo\filter\SimpleFilter.class
+com\microService\filter\SimpleUrlFilter.class
+com\microService\model\User.class
+com\microService\model\UserData.class
+com\microService\demo\RestProjectApplication.class
+com\microService\demo\filter\SimpleFilter$1.class
+com\microService\model\UserDataWrapper.class
+com\microService\demo\filter\SecondFilter.class

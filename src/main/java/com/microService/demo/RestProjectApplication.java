@@ -24,6 +24,7 @@ public class RestProjectApplication extends HttpServlet {
 	
 	public static void main(String[] args) {
 		logger.info("application executed");
+		logger.info("application executed - n times");
 		appContext= SpringApplication.run(RestProjectApplication.class, args);
 		String beans[] = {"simpleUrlFilter" , "simpleFilter" , "student"};		       
 		for( String bb : beans)
