@@ -19,7 +19,7 @@ public class RestProjectApplication extends HttpServlet {
 	
 	
 	public void intt() {
-		logger.info("application started");
+		logger.info("application     started");
 	}
 	
 	public static void main(String[] args) {
